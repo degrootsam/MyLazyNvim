@@ -1,59 +1,9 @@
 {
   "extras": [
-<<<<<<< HEAD
-    "lazyvim.plugins.extras.coding.mini-comment",
-    "lazyvim.plugins.extras.coding.neogen",
-    "lazyvim.plugins.extras.coding.yanky",
-    "lazyvim.plugins.extras.editor.dial",
-    "lazyvim.plugins.extras.editor.fzf",
-    "lazyvim.plugins.extras.editor.illuminate",
-    "lazyvim.plugins.extras.editor.inc-rename",
-    "lazyvim.plugins.extras.editor.leap",
-    "lazyvim.plugins.extras.editor.mini-move",
-    "lazyvim.plugins.extras.editor.outline",
-    "lazyvim.plugins.extras.formatting.prettier",
-    "lazyvim.plugins.extras.lang.json",
-    "lazyvim.plugins.extras.lang.markdown",
-=======
-    "lazyvim.plugins.extras.coding.yanky",
-    "lazyvim.plugins.extras.editor.dial",
-    "lazyvim.plugins.extras.editor.illuminate",
-    "lazyvim.plugins.extras.editor.inc-rename",
-    "lazyvim.plugins.extras.editor.leap",
-    "lazyvim.plugins.extras.formatting.biome",
-    "lazyvim.plugins.extras.formatting.black",
-    "lazyvim.plugins.extras.formatting.prettier",
-    "lazyvim.plugins.extras.lang.docker",
-    "lazyvim.plugins.extras.lang.json",
-    "lazyvim.plugins.extras.lang.markdown",
-    "lazyvim.plugins.extras.lang.python",
-    "lazyvim.plugins.extras.lang.rust",
->>>>>>> db9c16c (.)
-    "lazyvim.plugins.extras.lang.tailwind",
-    "lazyvim.plugins.extras.lang.typescript",
-    "lazyvim.plugins.extras.lang.yaml",
-    "lazyvim.plugins.extras.linting.eslint",
-<<<<<<< HEAD
-    "lazyvim.plugins.extras.ui.mini-indentscope",
-    "lazyvim.plugins.extras.ui.mini-starter",
-    "lazyvim.plugins.extras.util.dot",
-    "lazyvim.plugins.extras.util.gitui",
-    "lazyvim.plugins.extras.util.mini-hipatterns",
-    "lazyvim.plugins.extras.vscode"
-  ],
-  "news": {
-    "NEWS.md": "7107"
-=======
-    "lazyvim.plugins.extras.lsp.none-ls",
-    "lazyvim.plugins.extras.util.dot",
-    "lazyvim.plugins.extras.util.gitui",
-    "lazyvim.plugins.extras.util.mini-hipatterns",
-    "lazyvim.plugins.extras.util.startuptime",
-    "lazyvim.plugins.extras.vscode"
+
   ],
   "news": {
     "NEWS.md": "7429"
->>>>>>> db9c16c (.)
   },
   "version": 7
 }
